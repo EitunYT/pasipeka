@@ -1,0 +1,168 @@
+
+.materi {
+    background-color: white;
+    margin: 8%;
+    text-align: center;
+    padding: 5%;
+    border-radius: 15px;
+}
+
+strong {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: 5%;
+}
+
+.materiaktiv {
+    background-color: white;
+    margin: 8%;
+    text-align: center;
+    padding: 5%;
+    border-radius: 15px;
+
+}
+.ringan {
+    background-color: rgb(0, 140, 70);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 8%;
+    transition: 0.5s;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.ringan:hover {
+    box-shadow: 2px 0px 20px 3px rgba(0,140, 70, 0.75);
+-webkit-box-shadow: 2px 0px 20px 3px rgba(0,140,70,0.75);
+-moz-box-shadow: 2px 0px 20px 3px rgba(0,140,70,0.75);
+transition: 0.5s;
+}
+
+.sedang {
+    background-color: rgb(190, 86, 0);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 8%;
+    transition: 0.5s;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.sedang:hover {
+    box-shadow: 2px 0px 20px 3px rgba(190, 86, 0, 0.75);
+-webkit-box-shadow: 2px 0px 20px 3px rgba(190,86,0,0.75);
+-moz-box-shadow: 2px 0px 20px 3px rgba(190,86,0,0.75);
+transition: 0.5s;
+}
+
+.berat {
+    background-color: rgb(155, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 8%;
+    transition: 0.5s;
+    transition: 0.5s;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.berat:hover {
+        box-shadow: 2px 0px 20px 3px rgba(155, 0, 0, 0.75);
+    -webkit-box-shadow: 2px 0px 20px 3px rgba(155,0,0,0.75);
+    -moz-box-shadow: 2px 0px 20px 3px rgba(155,0,0,0.75);
+    transition: 0.5s;
+}
+
+.manfaataktiv {
+    background-color: white;
+    margin: 8%;
+    text-align: center;
+    padding: 5%;
+    border-radius: 15px;
+}
+
+.jantung {
+    background-color: rgb(155, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 8%;
+    transition: 0.5s;
+    transition: 0.5s;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.jantung:hover {
+        box-shadow: 2px 0px 20px 3px rgba(155, 0, 0, 0.75);
+    -webkit-box-shadow: 2px 0px 20px 3px rgba(155,0,0,0.75);
+    -moz-box-shadow: 2px 0px 20px 3px rgba(155,0,0,0.75);
+    transition: 0.5s;
+}
+
+.pembuluhdarah {
+    background-color: rgb(196, 106, 4);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 8%;
+    transition: 0.5s;
+    transition: 0.5s;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.pembuluhdarah:hover {
+    box-shadow: 2px 0px 20px 3px rgba(196, 106, 4, 0.75);
+-webkit-box-shadow: 2px 0px 20px 3px rgba(196, 106, 4, 0.75);
+-moz-box-shadow: 2px 0px 20px 3px rgba(196, 106, 4, 0.75);
+transition: 0.5s;
+}
+
+.hipertensi {
+    background-color: rgb(155, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 8%;
+    transition: 0.5s;
+    transition: 0.5s;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.hipertensi:hover {
+        box-shadow: 2px 0px 20px 3px rgba(155, 0, 0, 0.75);
+    -webkit-box-shadow: 2px 0px 20px 3px rgba(155,0,0,0.75);
+    -moz-box-shadow: 2px 0px 20px 3px rgba(155,0,0,0.75);
+    transition: 0.5s;
+}
+
+.motivasi {
+    background-color: white;
+    margin: 8%;
+    text-align: center;
+    padding: 5%;
+    border-radius: 15px;
+}
+
+.pseude {
+    max-width: 100%;
+}
+
+

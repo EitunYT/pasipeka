@@ -1,0 +1,54 @@
+@media (max-width: 2001px) {
+    /* Styles for screens smaller than 768px */
+  }
+  
+  @media (min-width: 2000px) {
+    /* Styles for screens 769px and larger */
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+body {
+    padding: 20%;
+    background: rgb(60,49,246);
+    background: linear-gradient(141deg, rgba(60,49,246,1) 0%, rgba(82,179,255,1) 37%, rgba(10,175,209,1) 100%);
+    text-align: center;
+    position: relative;
+
+}
+
+ul {
+    margin: 50px;
+}
+
+li {
+    border-radius: 50px;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.main {
+    background-color: #fafafa;
+    padding-top: 15px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee;
+    -webkit-box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+    -moz-box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+    box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+}
+
+strong {
+    font-size: 30px;
+}
+
+.ethan {
+    height: 150px;
+    width: 150px;
+    margin-top: 30%;
+    border-radius: 50%;
+    max-width: 100%;
+}

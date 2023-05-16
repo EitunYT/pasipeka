@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+   position: relative;
+   overflow-x: hidden;
+
+}
+.materi {
+   margin: 15%;
+   align-items: center;
+   background-color: #fafafa;
+   margin-top: 18vh;
+   border-radius: 15px;
+   -webkit-box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+   -moz-box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+   box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+    word-wrap: break-word;
+   overflow-wrap: break-word;
+   padding: 6%; /* Jarak text dan background */
+
+}
+
+.algoritma {
+   font-family: 'Balsamiq Sans', cursive;
+   font-size: 30px;
+}
+.txt {
+   text-align: center;
+   word-wrap: break-word;
+   overflow-wrap: break-word;
+}
+
+.dispenser {
+  max-width: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  align-items: center;
+}
+
+.tgsalgo {
+   font-size: 15px;
+   background-color: black;
+   color: wheat;
+   text-align: center;
+   align-items: center;
+   padding: 2%;
+   max-width: 100%;
+   display: inline-block;
+   transition: 0.5s;
+   border-radius: 5px;
+}
+
+
+
+.tgsalgo:hover {
+   font-size: 130%;
+   transition: 0.5s ease-in-out;
+   border-radius: 20px;
+}

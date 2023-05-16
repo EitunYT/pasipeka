@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+   position: relative;
+   overflow-x: hidden;
+
+}
+.materi {
+   margin: 15%;
+   align-items: center;
+   background-color: #fafafa;
+   margin-top: 18vh;
+   border-radius: 15px;
+   -webkit-box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+   -moz-box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+   box-shadow: 0px 0px 9px 8px rgba(0,0,0,0.37);
+    word-wrap: break-word;
+   overflow-wrap: break-word;
+   padding: 6%; /* Jarak text dan background */
+
+}
+
+strong {
+    font-size: 25px;
+}
+
+.foto {
+    height: 200px;
+    width: 300px;
+}
+
+.tgs {
+    font-size: 15px;
+    background-color: black;
+    color: wheat;
+    text-align: center;
+    align-items: center;
+    padding: 2%;
+    max-width: 100%;
+    display: inline-block;
+    transition: 0.5s;
+    border-radius: 5px;
+    text-decoration: none;
+ }
+ 
+ 
+ 
+ .tgs:hover {
+    font-size: 130%;
+    transition: 0.5s ease-in-out;
+    border-radius: 20px;
+ }
